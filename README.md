@@ -62,4 +62,21 @@ The game is fully functional in PDF viewers that support JavaScript, such as Ado
 ## Compatibility
 PDF Tetris works best in Adobe Acrobat Reader. Some PDF viewers (especially browser-based ones) may not fully support JavaScript, which could affect gameplay. Ensure you use a viewer that supports interactive PDFs.
 
-   
+## Future Enhancements
+
+Here are some potential improvements and new features for PDF Tetris:
+
+1. **Add Colors to Blocks**  
+   Different colors for each type of block will make the game more visually appealing and help players easily identify pieces.
+
+2. **Introduce Difficulty Levels**  
+   Gradually increase the speed of block drops as the player progresses to make the game more challenging.
+
+3. **Include Sound Effects**  
+   Add sounds for block movements, rotations, line completions, and game over to enhance the gameplay experience.
+
+4. **Support for Touch Controls**  
+   Enable touch-based controls for better gameplay on mobile devices and tablets.
+
+
+## pls contribute :>
